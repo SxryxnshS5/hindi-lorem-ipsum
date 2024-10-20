@@ -67,6 +67,12 @@ h1 {
     font-size: 150px;
 }
 
+@media (max-width: 768px) {
+    h1 {
+        font-size: 80px;
+    }
+}
+
 #paragraphInputs div {
     margin-bottom: 15px;
 }
