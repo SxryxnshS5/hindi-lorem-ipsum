@@ -1,6 +1,7 @@
 # Hindi Lorem Ipsum Generator
 
 Made this on a beautiful Sunday afternoon because I was bored and just wanted to chill.
+Website Link: https://sxryxnshs5.github.io/hindi-lorem-ipsum/
 
 ## Overview
 
